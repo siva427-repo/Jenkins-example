@@ -55,12 +55,12 @@
 
     </dependencies>
 
-    <repositories>
+    <!--<repositories>
         <repository>
             <id>myMavenRepo.read</id>
             <url>https://mymavenrepo.com/repo/8CAdsaTw3GBA9RpLAHNr/</url>
         </repository>
-    </repositories>
+    </repositories>-->
 
     <distributionManagement>
         <repository>
