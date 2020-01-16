@@ -8,7 +8,7 @@ public class FizzBuzz {
         if (number % 3 == 0) return "Fizz";
         if (number % 5 == 0) return "Buzz";
 
-
+        System.out.println("===Feature branch 2===");
         return String.valueOf(number);
     }
 }
